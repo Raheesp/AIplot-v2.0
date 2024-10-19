@@ -1,4 +1,5 @@
 # AIplot: Conversational Data Analysis with Streamlit and PandasAI
+![image](https://github.com/user-attachments/assets/fd6788a3-549b-4ece-be38-c63a037340b9)
 
 ## Overview
 
